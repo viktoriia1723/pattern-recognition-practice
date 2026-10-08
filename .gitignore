@@ -218,3 +218,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+# Службові файли операційних систем
+.DS_Store
+Thumbs.db
